@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/104876821?v=4" width="100" height="100">
+<img src="https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/09584c8ae082801cb0df5d3d062dbe00866687d0/Specifications/CHAOTICLAB%20LOGO.png" width="450" height="80">
 
 ## CNC-Tap-for-Voron  
 ## *Designed for VORON2.4 R2 and VORON Trident, In honor of the VORON Design*  
