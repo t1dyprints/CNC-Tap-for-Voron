@@ -3,5 +3,5 @@
 ## CNC-Tap-for-Voron  
 ## *Designed for VORON2.4 R2 and VORON Trident, In honor of the VORON Design*  
 **Note:** CNC Voron Tap circuit module is 5V ONLY.  
-![image0](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/137ce66c9b763fd7e65264a8a69a24abd347a168/Specifications/Dingtalk_20230325114254.jpg)
-![image1](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/137ce66c9b763fd7e65264a8a69a24abd347a168/Specifications/Product%20Specification_D2FP-FN2_2.png)
+![image0](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/75dc6c7d1aaddef95bf8fae0e8443330681b6888/Specifications/Product%20Specification_D2FP-FN(1)_1.jpg)
+![image1](https://github.com/Chaoticlab/CNC-Tap-for-Voron/blob/75dc6c7d1aaddef95bf8fae0e8443330681b6888/Specifications/Product%20Specification_D2FP-FN2(1)_5.png)
